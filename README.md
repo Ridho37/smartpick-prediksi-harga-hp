@@ -34,3 +34,17 @@ Jika kamu ingin menjalankan aplikasi ini di komputer lokal, ikuti langkah-langka
 1. Clone repository ini:
    ```bash
    git clone [https://github.com/USERNAME_GITHUB_KAMU/smartpick-prediksi-harga-hp.git](https://github.com/USERNAME_GITHUB_KAMU/smartpick-prediksi-harga-hp.git)
+
+2. Masuk ke direktori proyek:
+   ```bash 
+   cd smartpick-prediksi-harga-hp
+
+3. Install semua requirments libary
+   ```bash
+   pip install -r requirments.txt
+
+4. Jalankan aplikasi Streamlit
+   ``` bash
+   streamlit run app.py
+
+   
