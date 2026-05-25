@@ -1,0 +1,31 @@
+nama_hp,merek,harga_min,harga_max,price_range,ram_gb,penyimpanan_gb,kamera_mp,baterai_mah,layar_inch,deskripsi
+Xiaomi Redmi A3,Xiaomi,1200000,1400000,0,3,64,8,5000,6.71,HP entry-level terjangkau dengan baterai besar untuk harian
+OPPO A17,OPPO,1600000,1900000,0,4,64,13,5000,6.56,HP murah dengan desain stylish dan baterai awet
+Samsung Galaxy A05,Samsung,1500000,1800000,0,4,64,50,5000,6.7,HP Samsung entry-level dengan kamera 50MP harga terjangkau
+Vivo Y02s,Vivo,1300000,1600000,0,3,32,8,5000,6.51,HP entry-level ringan cocok untuk pengguna pertama
+Infinix Hot 20i,Infinix,1200000,1500000,0,4,64,13,5000,6.6,HP murah dengan layar besar untuk gaming ringan
+Realme C30,Realme,1100000,1400000,0,2,32,8,5000,6.5,HP paling terjangkau dengan baterai 5000mAh
+Tecno Spark 10C,Tecno,1400000,1700000,0,4,64,13,5000,6.6,HP entry-level dengan memori internal lega
+Xiaomi Redmi Note 12,Xiaomi,2100000,2500000,1,4,128,50,5000,6.67,HP mid-range terpopuler dengan kamera 50MP dan AMOLED
+Samsung Galaxy A15,Samsung,2500000,2900000,1,4,128,50,5000,6.5,HP Samsung mid-range dengan layar Super AMOLED
+OPPO A58,OPPO,2700000,3100000,1,6,128,64,5000,6.72,HP mid-range OPPO dengan kamera 64MP dan fast charging
+Vivo Y27,Vivo,2600000,3000000,1,8,128,50,5000,6.64,HP Vivo mid-range dengan RAM besar dan desain premium
+Realme C55,Realme,2300000,2700000,1,8,256,64,5000,6.72,HP mid-range Realme dengan penyimpanan besar 256GB
+Infinix Note 30,Infinix,2900000,3400000,1,8,256,108,5000,6.78,HP mid-range dengan kamera 108MP harga terjangkau
+Poco M6 Pro,Xiaomi,3200000,3700000,1,8,256,64,5000,6.67,HP gaming mid-range dengan performa tinggi
+Xiaomi Redmi 12,Xiaomi,2000000,2400000,1,8,256,50,5000,6.79,HP Redmi terbaru dengan layar besar dan storage lega
+Samsung Galaxy A35,Samsung,5000000,5800000,2,8,256,50,5000,6.6,HP Samsung upper-mid dengan fitur lengkap dan layar AMOLED
+OPPO Reno 11F,OPPO,4500000,5200000,2,8,256,64,5000,6.7,HP OPPO Reno dengan kamera portrait terbaik di kelasnya
+Xiaomi POCO X6,Xiaomi,4000000,4800000,2,8,256,64,5000,6.67,HP gaming performa tinggi dengan layar 144Hz
+Vivo V30e,Vivo,5000000,5700000,2,8,256,50,5000,6.67,HP Vivo premium dengan desain tipis dan kamera Aura Light
+Realme 12 Pro,Realme,5300000,6000000,2,8,256,50,5000,6.7,HP Realme flagship dengan kamera telefoto periskop
+Samsung Galaxy A55,Samsung,6000000,6800000,2,8,256,50,5000,6.6,HP Samsung premium dengan IP67 dan layar Super AMOLED
+Nothing Phone 2a,Nothing,4900000,5500000,2,12,256,50,5000,6.7,HP unik dengan desain transparan Glyph Interface
+Xiaomi Redmi Note 13 Pro,Xiaomi,4500000,5200000,2,8,256,200,5000,6.67,HP mid-high dengan kamera 200MP terbaik di kelasnya
+Samsung Galaxy S24,Samsung,13000000,15000000,3,8,256,50,4000,6.1,Flagship Samsung terbaru dengan AI Galaxy dan Snapdragon 8
+iPhone 15,Apple,15000000,17000000,3,6,128,48,3877,6.1,iPhone terbaru dengan Dynamic Island dan chip A16 Bionic
+Xiaomi 14,Xiaomi,11000000,13000000,3,12,512,50,4610,6.36,Flagship Xiaomi dengan kamera Leica dan Snapdragon 8 Gen 3
+OPPO Find X7,OPPO,12000000,14000000,3,12,256,50,5000,6.74,Flagship OPPO dengan Hasselblad camera system terbaik
+Vivo X100,Vivo,10000000,12000000,3,12,256,50,5000,6.78,Flagship Vivo dengan kamera ZEISS dan chip Dimensity 9300
+Samsung Galaxy Z Flip5,Samsung,17000000,19000000,3,8,512,12,3700,6.7,HP lipat Samsung terbaru yang compact dan stylish
+iPhone 14,Apple,12000000,14000000,3,6,128,12,3279,6.1,iPhone 14 dengan chip A15 Bionic dan Emergency SOS Satellite
